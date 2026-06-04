@@ -5,12 +5,12 @@
 
 	<groupId>org.springframework.data</groupId>
 	<artifactId>spring-data-elasticsearch</artifactId>
-	<version>5.5.14-SNAPSHOT</version>
+	<version>5.5.14</version>
 
 	<parent>
 		<groupId>org.springframework.data.build</groupId>
 		<artifactId>spring-data-parent</artifactId>
-		<version>3.5.14-SNAPSHOT</version>
+		<version>3.5.14</version>
 	</parent>
 
 	<name>Spring Data Elasticsearch</name>
@@ -18,7 +18,7 @@
 	<url>https://github.com/spring-projects/spring-data-elasticsearch</url>
 
 	<properties>
-		<springdata.commons>3.5.14-SNAPSHOT</springdata.commons>
+		<springdata.commons>3.5.14</springdata.commons>
 
 		<!-- version of the ElasticsearchClient	-->
 		<elasticsearch-java>8.18.8</elasticsearch-java>
